@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+#idea 폴더, iml 파일들 커밋에서 제외
+.idea/
+*.iml
+#idea 폴더, iml 파일들 커밋에서 제외
